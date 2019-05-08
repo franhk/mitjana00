@@ -9,7 +9,7 @@ int main() {
 	float mitjana=0.0;
 	float nou_valor=0.0;
 	int numero_repeticions=0;
-	char consulta='s';
+	char consulta='s'; 
 
 	printf("CÃ€LCUL DE LA MITJANA DE N VALORS\n");
         printf("La mitjana ha estat trobada amb èxixt\n"); 
