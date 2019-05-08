@@ -12,7 +12,7 @@ int main() {
 	char consulta='s';
 
 	printf("CÃ€LCUL DE LA MITJANA DE N VALORS\n");
-        printf("La mitjana ha estat trobada amb èxit\n"); 
+        printf("La mitjana ha estat trobada amb èxixt\n"); 
 	while(consulta=='s') {
 		i++;
 		printf("DÃ²na la dada %i: ",i);
